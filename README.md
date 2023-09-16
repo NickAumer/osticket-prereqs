@@ -27,9 +27,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
+![iis](https://github.com/NickAumer/osticket-prereqs/assets/145170622/6f7a9814-52ea-4fd8-a32c-c78de9775d58)
+
+
 <p>
 Install/Enable IIS through windows features. To do this hit the windows key + r, in the run dialoge box type in control and press enter. Click on Programs and then Turn Windows features on or off. Check the boxes as shown above.
 </p>
