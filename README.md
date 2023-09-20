@@ -73,7 +73,7 @@ and customers side would be http://localhost/osTicket/
 For post-installation cleanup delete C:\inetpub\wwwroot\osTicket\setup
 and set the C:\inetpub\wwwroot\osTicket\include\ost-config.php file to read-only permissions. That's it you've successfully installed osTicket.
 
-##CONGRATS!
+## CONGRATS!
  
 </p>
 <br />
